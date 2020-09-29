@@ -1,0 +1,15 @@
+{
+  "name": "benchmark-geolib",
+  "version": "0.0.1",
+  "description": "benchmark geolocation related functions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jorge Arteaga",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "geolib": "^2.0.24"
+  }
+}
